@@ -1,4 +1,4 @@
-package application;
+package src.application;
 	
 
 import javafx.application.Application;
@@ -19,7 +19,7 @@ import javafx.scene.layout.VBox;
 
 
 
-public class App extends Application{
+public class Main extends Application{
 
     Stage window;
     TableView<Product> table;

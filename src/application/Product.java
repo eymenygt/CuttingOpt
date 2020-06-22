@@ -1,4 +1,4 @@
-package application;
+package src.application;
 
 public class Product {
 
